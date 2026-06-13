@@ -1,5 +1,3 @@
-# Modul Matriks Sederhana
-
 def tambah_matriks(A, B):
     hasil = []
 
